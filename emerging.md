@@ -52,6 +52,7 @@ No entries yet.
 
 ### Health and Fitness
 
+- [Army Fitness Test Calculator](https://www.armyfitnesstestcalculator.com/) - Scores the five Army Fitness Test events against the June 2025 scoring tables for general and combat standards, with calculators for alternate events and body fat. `Web` `US` · **Price:** Free · **License:** Proprietary.
 - [Yuan Doctor](https://www.yuandoctor.com/en/tools) - Computes bedside clinical scores and guideline thresholds in the browser, showing the strata, stated limitations, and source reference beside each result. `Web` · **Price:** Free; some research Labs tools are paid · **License:** Proprietary.
 
 ### Developer Tools
@@ -81,6 +82,7 @@ No entries yet.
 - [HoursCounter](https://hourscounter.com/) - Calculates weekly and biweekly work hours from clock punches, deducts unpaid breaks, and estimates gross pay with overtime calculated separately for each workweek. `Web` `US` · **Price:** Free · **License:** Proprietary.
 - [kdpbook.io KDP Printing Cost Calculator](https://kdpbook.io/kdp/printing-cost-calculator) - Calculates the Amazon KDP printing cost and minimum list price of a paperback or hardcover from ink and paper, trim size and page count, on each of the 14 KDP print marketplaces. `Web` · **Price:** Free · **License:** Proprietary.
 - [Lawn Mowing Cost Calculator](https://lawnmowingcalculator.com/) - Estimates lawn mowing job cost from area, rate, and extras. `Web` · **Price:** Free · **License:** Proprietary.
+- [Stats Workbench](https://cn8t.com/) - Calculates descriptive statistics, hypothesis tests including t-tests, ANOVA, and chi-square, confidence intervals, and correlation in the browser, showing the formula and intermediate sums for each result. `Web` · **Price:** Free · **License:** Proprietary.
 - [TrueHold Calculators](https://www.truehold.xyz/calculators) - Calculates impermanent loss for a 50/50 liquidity pool against holding, profit and average cost basis across several buys with fees, and the buys and sells that return a portfolio to its target weights. `Web` · **Price:** Free · **License:** Proprietary.
 
 ## Built-in, Search, and Launcher Calculators
